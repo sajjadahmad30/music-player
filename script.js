@@ -12,7 +12,17 @@ const songs = [
     { title: 'Song 4', artist: 'Artist 1', src: './audio/imad4.mp3' },
     { title: 'Song 5', artist: 'Artist 1', src: './audio/imad5.mp3' },
     { title: 'Song 6', artist: 'Artist 1', src: './audio/imad6.mp3' },
-    { title: 'Song 7', artist: 'Artist 1', src: './audio/WhatsApp Audio 2024-07-25 at 10.10.04 AM.mp4' },
+    { title: 'Song 7', artist: 'Artist 1', src: './audio/imad7.mp3' },
+    { title: 'Song 8', artist: 'Artist 1', src: './audio/imad8.mp3' },
+    { title: 'Song 9', artist: 'Artist 1', src: './audio/imad9.mp3' },
+    { title: 'Song 10', artist: 'Artist 1', src: './audio/imad10.mp3' },
+    { title: 'Song 11', artist: 'Artist 1', src: './audio/imad11.mp3' },
+    { title: 'Song 12', artist: 'Artist 1', src: './audio/imad12.mp3' },
+    { title: 'Song 13', artist: 'Artist 1', src: './audio/imad13.mp3' },
+    { title: 'Song 14', artist: 'Artist 1', src: './audio/imad14.mp3' },
+    { title: 'Song 15', artist: 'Artist 1', src: './audio/imad15.mp3' },
+    { title: 'Song 16', artist: 'Artist 1', src: './audio/imad16.mp3' },
+    { title: 'Song 17', artist: 'Artist 1', src: './audio/WhatsApp Audio 2024-07-25 at 10.10.04 AM.mp4' },
  
 
 ];
