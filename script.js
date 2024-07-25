@@ -8,7 +8,19 @@ const artist = document.getElementById('artist');
 const songs = [
     { title: 'Song 1', artist: 'Artist 1', src: './audio/audio.imp3.mpeg' },
     { title: 'Song 2', artist: 'Artist 2', src: './audio/audio2.imp3.mpeg' },
-    { title: 'Song 3', artist: 'Artist 3', src: './audio/audio3.imp3.mpeg' }
+    { title: 'Song 3', artist: 'Artist 3', src: './audio/audio3.imp3.mpeg' },
+    { title: 'Song 4', artist: 'Artist 3', src: './audio/imad1.mp3' },
+    { title: 'Song 4', artist: 'Artist 3', src: './audio/imad2.mp3' },
+    { title: 'Song 4', artist: 'Artist 3', src: './audio/imad3.mp3' },
+    { title: 'Song 4', artist: 'Artist 3', src: './audio/imad4.mp3' },
+    { title: 'Song 4', artist: 'Artist 3', src: './audio/imad5.mp3' },
+    { title: 'Song 4', artist: 'Artist 3', src: './audio/imad6.mp3' },
+    { title: 'Song 4', artist: 'Artist 3', src: './audio/imad7.mp3' },
+    { title: 'Song 4', artist: 'Artist 3', src: './audio/imad8.mp3' },
+    { title: 'Song 4', artist: 'Artist 3', src: './audio/imad9.mp3' },
+    { title: 'Song 4', artist: 'Artist 3', src: './audio/imad10.mp3' },
+    { title: 'Song 4', artist: 'Artist 3', src: './audio/imad11.mp3' },
+    { title: 'Song 4', artist: 'Artist 3', src: './audio/imad12.mp3' },
 ];
 
 let currentSongIndex = 0;

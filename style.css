@@ -3,18 +3,20 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f0f0f0;
+    background:url(./audio/hamad1.jpeg) no-repeat;
+    background-size: cover;
     margin: 0;
     font-family: Arial, sans-serif;
 }
 
 .player {
-    background-color: #fff;
+    background:url(./audio/imado.jpeg) no-repeat center center/cover;
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
     padding: 20px;
     width: 300px;
     text-align: center;
+    margin-left: -360px;
 }
 
 .music-info {
