@@ -1,0 +1,55 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background:url(./audio/hamad1.jpeg);
+    background-size: cover;
+  background-repeat: no-repeat  ;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.player {
+    background:url(./audio/imado.jpeg)  no-repeat center center/cover;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+    margin-left:-430px ;
+}
+
+.music-info {
+    margin-bottom: 20px;
+}
+
+.music-info h2 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.music-info p {
+    margin: 5px 0 0;
+    font-size: 18px;
+    color: #666;
+}
+
+.controls {
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    background-color: #e0e0e0;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #d0d0d0;
+}
